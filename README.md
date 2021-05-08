@@ -31,7 +31,7 @@
 <table border="0" align='center'>
 <tr>
 
-<td><a href=''><img src='assets/Theory.svg' align='center' alt='Learning' width='100' height='100' /></a><p align='center'><b>Learning</b></p></td>
+<td><a href='./Learning/README.md'><img src='assets/Theory.svg' align='center' alt='Learning' width='100' height='100' /></a><p align='center'><b>Learning</b></p></td>
 <td><a href=''><img src='assets/toolbox.svg' align='center' alt='Toolkit'  width='100' height='100' /></a><p align='center'><b>Toolkit</b></p></td>
 <td><a href=''><img src='assets/Template.svg' align='center' alt='Practice' width='100' height='100' /></a><p align='center'><b>Templates</b></p></td>
 <td></td>
